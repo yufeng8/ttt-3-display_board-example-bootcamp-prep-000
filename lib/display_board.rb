@@ -5,7 +5,7 @@ def display_board()
               |   |
            -----------
               |   |   "
-  puts board
+  print board
 end
 
 display_board()
